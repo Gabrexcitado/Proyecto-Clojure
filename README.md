@@ -1,6 +1,6 @@
 # Proyecto Biblioteca en Clojure
 
-Este es un proyecto simple de **Clojure** basado en un trabajo realizado en segundo semestre para la clase de POO, donde se simulaba la prestación y devolución de libros de una biblioteca. Al igual que en aquel problema se intentara hacer un menu.
+Este es un proyecto de **Clojure** que consiste en la mejora del programa pasado, además de nuevas funciones implementa un documento .csv para guardar los datos ingresados por el usuario. Esta es una simulación más completa de el manejo de datos de una biblioteca
 
 ## Requisitos
 
