@@ -1,6 +1,6 @@
-# Proyecto Biblioteca en Clojure
+# Proyecto Diagnóstico Médico en Clojure
 
-Este es un proyecto de **Clojure** que consiste en la mejora del programa pasado, además de nuevas funciones implementa un documento .csv para guardar los datos ingresados por el usuario. Esta es una simulación más completa de el manejo de datos de una biblioteca
+Este es un proyecto de **Clojure** que simula un sistema de diagnóstico médico. Utiliza estructuras de datos como defrecord, vectores, atom y sets para gestionar pacientes, registrar sus síntomas y sugerir posibles enfermedades.
 
 ## Requisitos
 
